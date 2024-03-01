@@ -5,7 +5,6 @@
 //  Created by MacBook on 09/03/2023.
 // Wahab
 //Changing Number 1
-//Changing Number 2
 
 import Foundation
 enum AppConstants {
